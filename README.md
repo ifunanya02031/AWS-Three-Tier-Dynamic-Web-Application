@@ -337,12 +337,3 @@ Amazon RDS (MySQL)
 ## Learning Outcomes
 
 By completing this project, I gained hands-on experience designing and deploying a secure cloud-native application architecture on AWS. The project reinforced core cloud engineering concepts including network segmentation, secure resource access, database management, secrets management, IAM role delegation, and application deployment within private environments. Additionally, implementing Flyway migrations and integrating multiple AWS services provided practical experience with enterprise deployment patterns commonly used in production cloud environments.
-
----
-
-**Author:** Favor O.
-**Platform:** Amazon Web Services (AWS)
-**Application:** NestJS Grocery Store Application
-**Database:** Amazon RDS MySQL
-**Infrastructure:** VPC, EC2, ALB, RDS, S3, IAM, Secrets Manager
-**Project Type:** Dynamic Web Application Deployment
